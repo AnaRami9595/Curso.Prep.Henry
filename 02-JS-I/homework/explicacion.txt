@@ -1,0 +1,18 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si
+ se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Variables: Una variable es un contenedor de datos. La información que contiene puede ser una operación 
+automática, un string que forme un enunciado, etcétera.
+
+Strings: es un tipo de dato en javascript que puede ser representada de forma textual. Un string va
+ siempre entre comillas, de otra manera Javascript podría confundirlo con otro tipo de dato.
+
+Funciones (argumentos, return): Una función es un procedimiento compuesto por una serie de declaraciones 
+que son los pasos para completar una tarea o calcular una operación. Para que sea una función debe haber un problema y un resultado
+que se resuelva gracias a los pasos escritos en la función.
+
+Declaraciones if: Piensa que un if es como un "si" condicional. Es una declaración que ejecuta una operación si una condición específica es verdadera.
+Si la condición es falsa, otra declaración puede ser ejecutada en su lugar.
+
+Valores booleanos (true, false): Un boolean es otro tipo de dato que regresa un valor verdadero "truth" o falso "false". En javascript se puede
+usar como un evaluador de expresiones o variables para declararlas verdaderas o falsas.
