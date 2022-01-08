@@ -1,0 +1,39 @@
+-For loop
+
+Es un bucle que consiste en tres expresiones separadas por comillas y encerradas
+en un paréntesis. Seguida por una declaración entre corchetes que se
+ejecutará en el bucle.
+    La primera expresión dentro del paréntesis será la inizalización
+de una VARIABLE, es normal que esta sea let o var.  
+
+    En la segunda expresión se establece una CONDICIÓN. Si esta se
+cumple, la DECLARACIÓN se ejecutará.
+
+    La tercera expresión es la FINAL, y esta será evaluada al final de
+cada vuelta del bucle. Esta ocurre antes de la siguiente evaluación de
+la CONDICIÓN. Es muy común que se utilice para actualizar o incrementar
+el valor de la VARIABLE.
+
+En cuanto a la DECLARACIÓN, esta se ejecutará mientras la CONDICIÓN sea
+verdadera.
+
+
+Hay tres operadores lógicos de Javascript que son muy importantes:
+
+- El Operador || (or):
+  Este operador copara dos o más principios en una expresión y
+  retorna una expresión booleana. Es decir true o false.
+  Si ambos, o alguno de los dos es true (es decir, verdadero), 
+  la expresión califica cómo verdadera en su totalidad. Sólo si 
+  ambos son negativos, la expresión completa será negativo.
+
+-El operador && (AND)
+ Al igual que el operador OR (||) este también califica la veracidad
+ o falsedad de varios operandos. En este caso, solo si los dos operandos
+ resultan ser verdaderos, la expresión completa será verdadera, si uno
+ de los dos es falso, la comparación será falsa.
+
+ - El operador ! (NOT)
+ Lo que hace este ejecutante es que transforma la veracidad de un operando
+ por ejemplo, si se agrega antes a una expresión verdadera, la consola la
+ tomará como falsa. Y viceversa. 
