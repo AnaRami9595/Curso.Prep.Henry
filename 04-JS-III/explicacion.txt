@@ -1,0 +1,4 @@
+¿Qué es un Array?
+Es una colección de elementos encerrados por dos corchetes que sirven para guardar cualquier tipo de dato.
+En Javascript se utilizan para resguardar información, hacer listas o son usados como una herramienta para 
+realizar operaciones matemáticas. 
