@@ -1,0 +1,8 @@
+PROTOTYPE
+
+Los prototypes o prototipos son mecanismos mediante los cuales, objetos pueden heredar características o elementos
+de otros objetos.
+
+CONSTRUCTORS
+
+Un constructor es un método especial de una class que crea e inicializa un objeto o instancia de esa clase en particular.
