@@ -1,0 +1,25 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como 
+si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir 
+rápidamente cualquier agujero en tu comprensión.
+
+Objetos: 
+Los objetos son una colección de datos, pero a diferencia de los Arrays, son un poco más complejos, ya que 
+dentro de cada propiedad (es decir, una parte del objeto) se le puede asignar un valor que puede consistir
+en strings, números, valores booleans o incluso funciones, arrays y otros objetos.
+
+Propiedades:
+Las propiedades o keys de un objeto, son las partes que resguardan más información. Las 
+propiedades pueden ser denominadas por números, strings, incluso variables.
+
+Métodos:
+Mencioné antes que los objetos pueden guardar strings como valor de una propiedad. Pues bien, estas funciones
+reciben el nombre de métodos dentro de un objeto.
+
+Bucle for…in:
+Es una manera de atravesar las propiedades de  objetos, como lo haría un bucle for con los índices de un array. 
+Las declaraciones en el cuerpo del bucle serán ejecutadas por cada propiedad del objeto. Sólo pasará por
+aquellas propiedades definidas po el usuario.
+
+Notación de puntos vs notación de corchetes:
+Para llamar al valor de una propiedad se puede usar tanto la notación de corchetes (que sirve para propiedades que son números
+o variables) y la notación de corchetes, que se usa más para strings con espacios entre sí.
