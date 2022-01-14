@@ -1,0 +1,16 @@
+
+#thirdDiv { 
+
+    color: whitesmoke;
+    width: 500px;
+    height: 600px;
+    background-color: black;
+    padding: 50px;
+    border-style: dashed;
+    border-color: red}
+
+#spanId { margin: 50px;}
+
+h1{color :red}
+
+img { width: 400px;}
