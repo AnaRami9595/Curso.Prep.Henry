@@ -30,9 +30,9 @@ function incrementarPorUno(array) {
   // y devuelve el array
   // Tu código:
   var arrayIncrementado = []
-  var len = array.length;
+                          
   
-    for(var i = 0; i < len; i++) {
+    for(var i = 0; i < array.length; i++) {
     arrayIncrementado[i] = array[i] + 1;
     }
     return arrayIncrementado;
@@ -85,10 +85,10 @@ function agregarNumeros(numeros) {
   // "numeros" debe ser un arreglo de enteros (int/integers)
   // Suma todos los enteros y devuelve el valor
   // Tu código:
-  var len = numeros.length;
+  
   let sumaTotal = 0;
   
-    for(var i = 0; i < len; i++) {
+    for(var i = 0; i < numeros.length; i++) {
     sumaTotal += numeros[i];
     }
     return sumaTotal;
@@ -131,8 +131,8 @@ function cuentoElementos(arreglo){
   //Realiza una función que retorne la cantidad de los elementos del arreglo cuyo valor es mayor a 18.
   //Escribe tu código aquí
   let contador = 0;
-  var len = arreglo.length;
-    for(var i = 0; i < len; i++) {
+  
+    for(var i = 0; i < arreglo.length; i++) {
       if (arreglo[i] > 19){
         contador++
       }
